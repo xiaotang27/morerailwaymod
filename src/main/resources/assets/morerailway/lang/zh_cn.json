@@ -1,0 +1,8 @@
+{
+    "block.morerailway.tp_1": "盲道（横向）",
+    "block.morerailway.tp_2": "盲道（纵向）",
+    "block.morerailway.tp_3": "盲道（停滞）",
+    "itemGroup.morerailway.general": "更多铁路——盲道",
+    "itemGroup.morerailway.dec": "装饰品",
+    "block.morerailway.ceiling": "天花板"
+}

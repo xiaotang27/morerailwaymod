@@ -1,0 +1,8 @@
+{
+    "block.morerailway.tp_1": "Tactile Paving(Horizontal)",
+    "block.morerailway.tp_2": "Tactile Paving(Vertical)",
+    "block.morerailway.tp_3": "Tactile Paving(Stop)",
+    "itemGroup.morerailway.general": "More Railway---Tactile Paving",
+    "itemGroup.morerailway.dec": "Ornament",
+    "block.morerailway.ceiling": "Ceiling"
+}

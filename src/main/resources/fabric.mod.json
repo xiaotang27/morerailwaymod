@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "morerailway",
+  "version": "${version}",
+  "name": "More Railway",
+  "description": "A Minecraft mod that add some thing in real life railway.",
+  "authors": [
+    "Xiaotang27"
+  ],
+  "contact": {
+    "website": "xiaotang27.github.io"
+  },
+  "license": "MIT",
+  "icon": "assets/morerailway/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "morerailway.morerailway.client.MorerailwayClient"
+    ],
+    "main": [
+      "morerailway.morerailway.Morerailway"
+    ]
+  },
+  "mixins": [
+    "morerailway.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.10",
+    "fabric": "*",
+    "minecraft": "1.18.2"
+  }
+}
